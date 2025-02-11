@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3526869677",
+    "project_id": "simird-simird",
+    "storage_bucket": "simird-simird.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3526869677:android:928214f84a1c7a18afbc24",
+        "android_client_info": {
+          "package_name": "com.simird.simird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3526869677-9h9nfqqjfhh9gc9tin6ndfgsfuet8n8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChANdMVwME-jrE1YmtfR0_3c6296YQNIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3526869677-9h9nfqqjfhh9gc9tin6ndfgsfuet8n8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
